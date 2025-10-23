@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023045</string>
+    <string name="nama_club">Wrexham AFC</string>
+    <string name="deskripsi">
+        Wrexham Association Football Club (Welsh: Clwb Pêl-droed Wrecsam) is a professional association football club based in Wrexham, Wales. Formed in 1864, it is the oldest club in Wales and the third-oldest professional association football team in the world. The club competes in the EFL Championship, the second tier of the English football league system
+    </string>
+    <string name="deskripsi_lengkap">
+        "Wrexham Association Football Club (Welsh: Clwb Pêl-droed Wrecsam) is a professional association football club based in Wrexham, Wales. Formed in 1864, it is the oldest club in Wales and the third-oldest professional association football team in the world. The club competes in the EFL Championship, the second tier of the English football league system.
+
+Domestically, the club has won the Welsh Cup a record twenty-three times, the short-lived FAW Premier Cup a record five times, the Football League Trophy in 2005 and the FA Trophy in 2013. Recently, following five unsuccessful play-off campaigns in the National League, Wrexham achieved three promotions in three seasons, from 2022 to 2025, through: winning the 2022–23 National League and finishing runners-up in the 2023–24 EFL League Two and in the 2024–25 EFL League One. Thus, securing a spot in the EFL Championship, and becoming the first ever team to be promoted three consecutive times in the English Football League.
+
+Internationally, Wrexham competed in the European Cup Winners' Cup / UEFA Cup Winners' Cup on multiple occasions through success in the Welsh Cup –– reaching the quarter-finals once in 1976, as well as beating FC Porto and drawing with teams such as Real Zaragoza and Anderlecht during their time in the competition. However, following changes made to the Welsh Cup competition in 1995, Welsh clubs playing in the English Football system (such as Wrexham) were no longer permitted to enter and therefore, had to qualify for European competition exclusively via the English system. In 2012, UEFA reiterated that Welsh clubs playing in the English football league system could not qualify for European competitions via the Welsh Cup, after Wrexham (alongside Merthyr Town and Newport County) rejoined for one season in 2011–12.
+
+Wrexham received major financial investment after its 2020 takeover by actors Rob McElhenney and Ryan Reynolds through Wrexham Holdings LLC, starting a new era of success. This acquisition, alongside the global publicity of the Welcome to Wrexham documentary series, had a significant impact on the club's visibility, resulting in an unprecedented new international fanbase for a team that were in the fifth division (at the time).
+
+The club's home stadium, the Racecourse Ground, is the world's oldest international stadium that still continues to host international games. The record attendance at the ground was set in 1957 when the club hosted a match against Manchester United in front of 34,445 spectators. The club's main rivalries are with English clubs Chester, Shrewsbury Town, and Tranmere Rovers, with matches against Chester being known as the cross-border derby. In addition, Wrexham have been referred to as cup "giant-killers", due to unexpected successes against top-flight opponents, such as upsetting the reigning league champions Arsenal in the 1992 FA Cup."
+    </string>
+    <string name="club">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="team">Team Squad</string>
+</resources>
